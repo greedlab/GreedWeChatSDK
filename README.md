@@ -1,6 +1,6 @@
 # GreedWeChatSDK
 
-微信SDK <https://open.weixin.qq.com/>
+微信SDK iOS版 <https://open.weixin.qq.com/>
 
 ## 安装
 
