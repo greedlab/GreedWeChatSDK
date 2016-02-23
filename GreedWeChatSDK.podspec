@@ -12,10 +12,6 @@ Pod::Spec.new do |s|
   s.public_header_files = "*.h"
   s.preserve_paths = "libWeChatSDK.a"
   s.vendored_libraries = "libWeChatSDK.a"
-  s.xcconfig = {
-    'LIBRARY_SEARCH_PATHS' => '"$(PODS_ROOT)/libWeChatSDK"',
-    'HEADER_SEARCH_PATHS' => '"$(PODS_ROOT)/libWeChatSDK"'
-  }
   s.requires_arc = false
   s.frameworks = 'SystemConfiguration'
   s.libraries = 'z', 'sqlite3.0', 'c++'
