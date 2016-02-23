@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name = "GreedWeChatSDK"
+  s.name = "GreedWeChatSDK-iOS"
   s.version = "1.6.2"
   s.license = "MIT"
   s.summary = "WeChatSDK for Cocoapods convenience."

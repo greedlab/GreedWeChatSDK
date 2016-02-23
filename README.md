@@ -11,7 +11,7 @@
 ## 安装
 
 ```
-pod 'GreedWeChatSDK'
+pod 'GreedWeChatSDK-iOS'
 ```
 
 ## 更新日志
