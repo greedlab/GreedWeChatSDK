@@ -1,6 +1,10 @@
 # GreedWeChatSDK
 
-微信SDK iOS版 <https://open.weixin.qq.com/>
+微信iOS SDK 
+
+* [微信开放平台](https://open.weixin.qq.com/)
+* [官方文档](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417694084&token=&lang=zh_CN)
+* [SDK官方下载地址](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419319164&token=&lang=zh_CN)
 
 ## 安装
 
