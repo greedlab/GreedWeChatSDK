@@ -1,6 +1,6 @@
 # GreedWeChatSDK
 
-微信iOS SDK 
+微信iOS SDK
 
 * [微信开放平台](https://open.weixin.qq.com/)
 * [官方文档](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=1417694084&token=&lang=zh_CN)
@@ -16,7 +16,7 @@ pod 'GreedWeChatSDK-iOS'
 
 ## 更新日志
 
-[read_me.txt](read_me.txt)
+[README.txt](README.txt)
 
 ## LICENSE
 

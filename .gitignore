@@ -51,3 +51,9 @@ Carthage/Build
 
 fastlane/report.xml
 fastlane/screenshots
+
+# Mac OS X
+
+*.DS_Store
+*.Spotlight-V100
+*.Trashes
